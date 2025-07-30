@@ -20,3 +20,9 @@ The port scanner works by checking a range of ports on a target IP address or ho
 The simulated brute-force password cracker models how password guessing attacks occur by checking a list of possible passwords against a preset correct password. Users provide a file with candidate passwords, and the tool tries each one in turn, reporting success if the correct password is found. This simulation demonstrates the importance of strong, unique passwords and how attackers attempt to breach systems by systematically guessing credentials.The tool reads this file and tries each password against a predefined “correct” password stored within the script. Each attempt is displayed, and if a match is found, the program notifies the user of success. If the password is not found in the list, it indicates failure. This helps users understand why it’s important to use strong, unique passwords that are not easily guessable or found in common password lists.The script also includes a user-friendly menu to choose between running the port scanner, the brute-force simulation, or exiting the program. It features input validation and error handling to guide users and prevent crashes.
 
 It provides hands-on experience with common penetration testing tasks in a safe environment. By understanding how port scanning and password guessing work, users can better appreciate the importance of securing network services and choosing strong passwords, which are critical steps in protecting systems from potential attacks.
+
+*OUTPUT*
+
+<img width="1914" height="698" alt="Image" src="https://github.com/user-attachments/assets/dfcdfe54-896a-4f89-b7f8-3cedfe781df7" />
+
+<img width="1914" height="750" alt="Image" src="https://github.com/user-attachments/assets/940229ca-edb8-4685-a7c4-9719f4ee3952" />
